@@ -1,0 +1,199 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    line-height: 1.5rem;
+}
+
+.title {
+    text-align: center;
+    color: red;
+}
+
+/* Phan chung */
+.break_paragraph {
+    padding-top: 5px;
+}
+
+.nav_first_page {
+    float: right;
+    padding-right: 60px;
+}
+
+/* Phan 1 */
+.intro {
+    background-image: url(../images/co-vietnam.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 20px 50px 10px 50px;
+}
+
+
+.intro_img_map {
+    float: left;
+    width: 200px;
+    margin: 10px 60px;
+}
+
+.intro_position {
+    background-image: url(../images/co-vietnam.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0 50px 10px 50px;
+}
+
+.intro_img_world {
+    float: right;
+    width: 200px;
+    margin: 20px;
+}
+
+/* Phan 2 */
+.hn {
+    padding-top: 40px;
+    background-image: url(../images/co-vietnam.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.hn_title {
+    background-color: red;
+    color: white;
+    padding: 10px 50px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.hn_desc_right {
+    padding-right: 50px;
+}
+
+.hn_desc_left {
+    padding-left: 50px;
+    margin-right: 10px;
+}
+
+.hn_img-hoguom {
+    float: left;
+    width: 300px;
+    margin: 20px 50px;
+}
+
+.hn_img-text {
+    float: left;
+    width: 50px;
+}
+
+.hn_img-langbac {
+    float: right;
+    width: 300px;
+    margin: 20px 50px;
+}
+
+/* Phan 3 */
+.hue {
+    padding-top: 40px;
+    background-image: url(../images/co-vietnam.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.hue_title {
+    background-color: blueviolet;
+    color: white;
+    padding: 10px 50px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.hue_desc {
+    padding: 0 50px;
+}
+
+.hue_img-text {
+    float: left;
+    width: 50px;
+}
+
+.hue_img_cau {
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+
+.hue_cau-name {
+    text-align: center;
+    font-style: italic;
+    font-weight: 700;
+    margin-top: -10px;
+}
+
+.hue_thuanhoa {
+    padding: 0 50px;
+}
+
+.hue_img_dien {
+    float: left;
+    width: 500px;
+    padding: 20px 30px 20px 50px;
+}
+
+.hue_desc_right {
+    padding-right: 50px;
+}
+
+.hue_desc_left {
+    padding-left: 50px;
+}
+
+.hue_truong {
+    background-image: url(../images/co-vietnam.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.hue_img_truong {
+    width: 500px;
+    float: right;
+    padding: 20px 50px 20px 30px;
+}
+
+/* Phan 4 */
+.hcm {
+    margin-top: 40px;
+}
+
+.hcm_img_text {
+    float: left;
+    width: 50px;
+}
+
+.hcm_title {
+    background-color: palevioletred;
+    color: white;
+    padding: 10px 50px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.hcm-wrap-col {
+    column-count: 3;
+    padding: 10px 50px;
+    column-gap: 20px;
+    column-rule-style: dotted;
+    column-rule-color: gray;
+}
+
+.hcm_img {
+    padding-top: 10px;
+    margin: 0 30px;
+    width: 400px;
+    text-align: center;
+}

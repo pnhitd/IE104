@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    text-align: center;
+    background-color: rgba(17, 70, 104, 0.906);
+    color: rgba(17, 70, 104, 0.906);
+}
+
+.banner {
+    margin: 0 120px;
+    background-color: white;
+    height: 100vh;
+}
+
+.banner_img-freecom {
+    padding: 10px 0;
+}
+
+.banner_desc {
+    padding: 10px 200px;
+    line-height: 1.5rem;
+}
+
+.text-bold {
+    font-weight: 700;
+}
+
+.banner_join {
+    display: flex;
+    justify-content:space-evenly;
+}
+
+.pt-20 {
+    padding-top: 20px;
+}
+
+.banner_img {
+    height: 50px;
+    padding-left: 100px;
+}
+
+.footer {
+    padding-top: 10px;
+    color: black;
+    font-weight: 600;
+}

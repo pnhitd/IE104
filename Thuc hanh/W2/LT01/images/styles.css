@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.title {
+    padding-top: 30px;
+    font-size: 3rem;
+}
+
+.name {
+    color: blue;
+}
+
+.desc {
+    font-size: 1.5rem;
+    padding: 20px 100px;
+}
+
+.btn {
+    background-color: rgb(41, 41, 34);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
