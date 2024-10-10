@@ -60,17 +60,21 @@ img {
 
 .desc_title {
     display: flex;
+    text-align: center;
+    padding: 10px;
+}
+
+.desc_title_icon {
     color: red;
     font-size: 1.3rem;
     font-weight: 700;
-    padding: 10px 0 8px 0;
 }
 
-.desc_img {
-    height: 15px;
-    width: 15px;
-    margin: 5px 10px 2px 0;
-    background-color: red;
+.icon_square {
+    color: red;
+    font-size: 20px;
+    text-align: center;
+    margin-right: 10px;
 }
 
 .desc_main {
