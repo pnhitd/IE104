@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    background-image: url(../images/stars.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    padding-top: 200px;
+}
+
+.container_desc {
+    text-align: center;
+    padding: 20px 50px;
+}
+
+.icon_graduate {
+    color: lightgreen;
+    font-size: 80px;
+}
+
+.icon_laptop {
+    color: pink;
+    font-size: 80px;
+}
+
+.icon_lightbulb {
+    color: red;
+    font-size: 80px;
+}
+
+.icon_earth {
+    color: lightskyblue;
+    font-size: 80px;
+}
+
+.data {
+    padding-top: 20px;
+    font-size: 2rem;
+    font-weight: bold;
+    color: white;
+}
+
+.data_text {
+    font-size: 1.5rem;
+    color: yellow;
+    padding-top: 50px;
+}
